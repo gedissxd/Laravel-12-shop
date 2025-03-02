@@ -6,7 +6,7 @@
     <title>Document</title>
     @vite('resources/css/app.css')
 </head>
-<body>
+<body class="overflow-y-scroll">
     <div>
         <nav class="bg-stone-500 flex justify-center items-center space-x-3 p-2">
             <a href="/">Home</a>
